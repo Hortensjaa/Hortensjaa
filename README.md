@@ -10,7 +10,7 @@
 
 🌱 Currently:
 - Improving Python and Django skills
-- Summer Trainee in Nokia (Python developer with Django)
+- Trying to understand Javascript
 
 🚀 Future goals, plans and ideas:
 - First functional e-commerce website built in Django
