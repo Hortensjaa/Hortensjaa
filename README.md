@@ -3,14 +3,14 @@
 - Interested in backend, with good will to learn more
 
 ✨ Skills:
-- Python (Mathplotlib, Numpy, Kivy basics) + Django
+- Python + Django
+- Basics of C language
 - MS Office (Excel, Access, Word, Powerpoint)
-- Basics of R and SQL
-- Mathematics and general science
+- Mathematics 
 
 🌱 Currently:
 - Improving Python and Django skills
-- Trying to understand Javascript
+- Trying to understand C
 
 🚀 Future goals, plans and ideas:
 - First functional e-commerce website built in Django
