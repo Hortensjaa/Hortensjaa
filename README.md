@@ -1,5 +1,6 @@
 👋 Hi, I’m @Hortensjaa
 - Mathematics (III year) and computer science (I year) student on Wroclaw University
+- Maybe future teacher, maybe future backend developer, maybe both
 - Interested in backend, with good will to learn more
 
 ✨ Skills:
