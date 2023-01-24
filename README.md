@@ -12,7 +12,7 @@
 🌱 Currently:
 - Improving Python and Django skills
 - Trying to understand C
-- Working on my textbook "Matura z Pythonem - zbiór zadań" with programming exercises for students preparing to matura exam in computer science.
+- Working on my textbook ["Matura z Pythonem - zbiór zadań"](https://github.com/Hortensjaa/Matura_z_Pythonem) with programming exercises for students preparing to matura exam in computer science.
 
 🚀 Future goals, plans and ideas:
 - Make [MoriaVisuals](https://github.com/Hortensjaa/MoriaVisuals) repo a working ecommerce website (with frontend...)
