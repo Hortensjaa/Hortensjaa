@@ -12,9 +12,11 @@
 🌱 Currently:
 - Improving Python and Django skills
 - Trying to understand C
+- Working on my textbook "Matura z Pythonem - zbiór zadań" with programming exercises for students preparing to matura exam in computer science.
 
 🚀 Future goals, plans and ideas:
-- First functional e-commerce website built in Django
+- Make MoriaVisuals repo a working ecommerce website (with frontend...)
+- Publish maths or computer science textbook for high school students
 - Try game development using Unity 
 
 📫 julka.kulczycka@wp.pl
