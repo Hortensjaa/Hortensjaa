@@ -15,7 +15,7 @@
 - Working on my textbook "Matura z Pythonem - zbiór zadań" with programming exercises for students preparing to matura exam in computer science.
 
 🚀 Future goals, plans and ideas:
-- Make MoriaVisuals repo a working ecommerce website (with frontend...)
+- Make [MoriaVisuals](https://github.com/Hortensjaa/MoriaVisuals) repo a working ecommerce website (with frontend...)
 - Publish maths or computer science textbook for high school students
 - Try game development using Unity 
 
