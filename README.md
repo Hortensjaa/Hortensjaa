@@ -12,7 +12,7 @@
 
 🌱 Currently:
 - Improving Python and Django skills
-- Learning Java (currently build first project)
+- Learning Java (currently building first project)
 
 🚀 Future goals, plans and ideas:
 - Make [MoriaVisuals](https://github.com/Hortensjaa/MoriaVisuals) repo a working ecommerce website (with frontend...)
