@@ -17,6 +17,7 @@
 🚀 Future goals, plans and ideas:
 - improve web and mobile development skills
 - upgrade [pole planner app](https://github.com/Hortensjaa/Pole_Planner) to IOs
+- learn Rust language
 - learn machine learning/ai basics
 
 📫 julka.kulczycka@wp.pl
