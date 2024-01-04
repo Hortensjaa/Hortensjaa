@@ -1,22 +1,22 @@
 👋 Hi, I’m @Hortensjaa
-- Mathematics (III year) and computer science (I year) student on Wroclaw University
-- Maybe future teacher, maybe future backend developer, maybe both
-- Interested in backend, with good will to learn more
+- computer science student and mathematics bachelor (Wroclaw University)
+- computer science and maths tutor
 
 ✨ Skills:
-- Python + Django
-- Basics of C/C++ language
-- Object oriented programming
-- MS Office (Excel, Access, Word, Powerpoint)
-- Mathematics 
+- web development using [Django](https://github.com/Hortensjaa/MoriaVisuals) and [Nodejs/ExpressJS](https://github.com/mszal449/Socket-Games-Hub)
+- [android apps development with Kotlin and Jetpack Compose](https://github.com/Hortensjaa/Pole_Planner)
+- [functional programming](https://github.com/Hortensjaa/Prolog)
+- languages: Python, Java, Kotlin, Javascript, OCaml, C/C++
+- mathematics
 
-🌱 Currently:
-- Improving Python and Django skills
-- Learning Java (currently building first project)
+💖 Interests
+- web development
+- android apps development
+- functional programming
 
 🚀 Future goals, plans and ideas:
-- Make [MoriaVisuals](https://github.com/Hortensjaa/MoriaVisuals) repo a working ecommerce website (with frontend...)
-- Publish maths or computer science textbook for high school students
-- Try game development using Unity 
+- improve web and mobile development skills
+- upgrade [pole planner app](https://github.com/Hortensjaa/Pole_Planner) to IOs
+- learn machine learning/ai basics
 
 📫 julka.kulczycka@wp.pl
