@@ -20,4 +20,4 @@
 - learn Rust language
 - learn machine learning/ai basics
 
-📫 julka.kulczycka@wp.pl
+📫 julia.kulczycka305@gmail.com
