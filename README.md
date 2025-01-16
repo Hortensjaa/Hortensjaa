@@ -20,6 +20,6 @@
 - learn machine learning/ai basics
 
 :phone: Contact and links:
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julia.kulczycka305@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.kulczycka305@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-kulczycka-177968277/)
 - [![Codewars](https://github.r2v.ch/codewars?user=JuliaKulczycka&stroke=%23BB432C)](https://www.codewars.com/users/JuliaKulczycka)
