@@ -3,6 +3,8 @@
 - computer science and maths tutor
 
 ✨ Skills:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hortensjaa&layout=compact&theme=dark)
 - web development primarly using [Spring boot + React](https://github.com/Hortensjaa/PetSpotting); also some experience with [Django](https://github.com/Hortensjaa/MoriaVisuals) and [Nodejs/ExpressJS](https://github.com/mszal449/Socket-Games-Hub)
 - [android apps development with Kotlin and Jetpack Compose]([https://github.com/Hortensjaa/Pole_Planner](https://github.com/Hortensjaa/PartyGameApp))
 - functional programming in [Rust](https://github.com/Hortensjaa/Rusticade) and [OCaml](https://github.com/Hortensjaa/Prolog)
