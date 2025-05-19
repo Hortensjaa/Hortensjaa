@@ -12,14 +12,15 @@
 - mathematics
 
 💖 Interests:
-- web development
-- mobile apps development
+- web and mobile apps development
+- artifical intelligence
+- game development
 - functional programming
 
 🚀 Future goals, plans and ideas:
-- improve web and mobile development skills
-- rewrite and improve [pole planner app](https://github.com/Hortensjaa/Pole_Planner); implement IOs version
-- learn machine learning/ai basics
+- improve web and mobile development skills while gaining commercial experience
+- improve artifical intelligence skills at university
+- combine ai algorithms into my first computer game
 
 :phone: Contact and links:
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.kulczycka305@gmail.com)
